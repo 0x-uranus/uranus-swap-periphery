@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import '../../../tan-swap-core/contracts/interfaces/ITANPair.sol';
+import '../../../uranus-swap-core/contracts/interfaces/ITANPair.sol';
 
 import "./SafeMath.sol";
 

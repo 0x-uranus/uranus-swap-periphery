@@ -1,6 +1,6 @@
 pragma solidity =0.6.6;
 
-import '../../tan-swap-core/contracts/interfaces/ITANFactory.sol';
+import '../../uranus-swap-core/contracts/interfaces/ITANFactory.sol';
 import '@uniswap/lib/contracts/libraries/TransferHelper.sol';
 import './interfaces/ITANRouter02.sol';
 import './libraries/TANLibrary.sol';
